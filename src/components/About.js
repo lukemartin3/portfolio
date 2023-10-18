@@ -35,6 +35,12 @@ export default function About() {
           />
         </div>
       </div>
+      <a href="https://github.com/lukemartin3?tab=repositories" className="mx-auto w-20 mb-4">
+            <img src="github-logo.png" alt="Github" className="mx-auto w-20 mb-4"></img>
+      </a>
+      <a href="https://www.linkedin.com/in/luke-martin-aab746197/" className="mx-auto w-20 mb-4">
+            <img src="linkedIn.png" alt="LinkedIn" className="mx-auto w-20 mb-4"></img>
+      </a>
     </section>
     );
 }
