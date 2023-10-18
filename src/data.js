@@ -19,7 +19,7 @@ export const projects = [
     title: "Recipe App",
     subtitle: "React | JavaScript",
     description:
-      "A recipe app using an API from the platform EDAMAM, where a user can search a keyword ingredient and all recipes containing that ingredient will be returned",
+      "A recipe app using an API from the platform EDAMAM, where a user can search a keyword ingredient and all recipes containing that ingredient will be returned.",
     image: "recipe-app.gif",
     link: "https://recipes.d48y44929mzyq.amplifyapp.com",
   },
@@ -35,14 +35,14 @@ export const projects = [
     title: "Movie List",
     subtitle: "Glide | API | No-Code",
     description:
-      "A movie app that allows a user to view the ratings and overview of thousands of movies from an API. After a user views a movie then it will be added to their list",
+      "A movie app that allows a user to view the ratings and overview of thousands of movies from an API. After a user views a movie then it will be added to their list.",
     image: "glide-mymovies.gif",
   },
   {
     title: "Real-Time Chess",
     subtitle: "Socket.io | JavaScript | Node.js",
     description:
-      "A classic game of chess with mutliplayer feature that updates moves in realtime.",
+      "A classic game of chess with mutliplayer feature that updates moves in realtime. The game can also be displayed from 2 seperate browser windows.",
     image: "chess.gif",
     link: "https://github.com/lukemartin3/chess",
   },
