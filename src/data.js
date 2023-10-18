@@ -42,7 +42,7 @@ export const projects = [
     title: "Real-Time Chess",
     subtitle: "Socket.io | JavaScript | Node.js",
     description:
-      "A classic game of chess with for mutliplayer use that updates in realtime.",
+      "A classic game of chess with mutliplayer feature that updates moves in realtime.",
     image: "chess.gif",
     link: "https://github.com/lukemartin3/chess",
   },
