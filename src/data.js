@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     title: "Tik-Tak-Toe",
-    subtitle: "React and JavaScript",
+    subtitle: "React | JavaScript",
     description:
       "This is a tik-tak-toe app that has a time travel feature, allowing a player to jump back to previous moves in a game.",
     image: "tik-tak-toe.gif",
@@ -17,7 +17,7 @@ export const projects = [
   },
   {
     title: "Recipe App",
-    subtitle: "React and JavaScript",
+    subtitle: "React | JavaScript",
     description:
       "A recipe app using an API from the platform EDAMAM, where a user can search a keyword ingredient and all recipes containing that ingredient will be returned",
     image: "recipe-app.gif",
@@ -30,6 +30,21 @@ export const projects = [
       "A fully functional hospital management system web application that contains CRUD operations for functions such as scheduling appointments, assigning beds, and making payments.",
     image: "HMS.gif",
     link: "https://github.com/lukemartin3/Hospital-Management-System",
+  },
+  {
+    title: "Movie List",
+    subtitle: "Glide | API | No-Code",
+    description:
+      "A movie app that allows a user to view the ratings and overview of thousands of movies from an API. After a user views a movie then it will be added to their list",
+    image: "glide-mymovies.gif",
+  },
+  {
+    title: "Real-Time Chess",
+    subtitle: "Socket.io | JavaScript | Node.js",
+    description:
+      "A classic game of chess with for mutliplayer use that updates in realtime.",
+    image: "chess.gif",
+    link: "https://github.com/lukemartin3/chess",
   },
 ];
 
